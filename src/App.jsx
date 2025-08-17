@@ -64,7 +64,7 @@ function Loader() {
 
 function HeadTxt() {
   return (
-    <div className="flex justify-center text-center px-4">
+    <div className="flex justify-center text-center px-4 mt-5">
       <p className="md:text-7xl text-3xl font-bold text-slate-100 tracking-wide movie-font">
         Find your favourite movie.
       </p>
